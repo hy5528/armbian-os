@@ -30,7 +30,7 @@ on:
         - bookworm
         - trixie
         - sid
-        default: 'jammy'
+        default: 'bookworm'
 
       armbian_ui:
         type: choice
